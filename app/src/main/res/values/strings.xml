@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YoutubeApi</string>
+    <string-array name="organisations">
+        <item>IITM TV</item>
+        <item>Media Club IITM</item>
+    </string-array>
+</resources>
