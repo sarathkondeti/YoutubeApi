@@ -52,8 +52,12 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this,OrganPage.class);
                 String channelID="";
                 switch(position){
-                    case 0 : channelID="UCSsS3HSbI7fCu0pGq0XFgxw"; break;
+                    case 0 : channelID="UCZgwOAjweG6NZKX5VWXLQLw";break;
                     case 1 : channelID="UCL54SxfvU26y-niXyi1VY9A";break;
+                    case 2 : channelID="UCSsS3HSbI7fCu0pGq0XFgxw"; break;
+                    case 3 : channelID="UC6GWtMMc4RnjcJAOHbr7XKA";break;
+                    case 4 : channelID="UC34XdxxCQkUpAMZbWR6-aqQ";break;
+                    case 5 : channelID="UCgY2ugmW-BV2nMRFu-0qPZA";break;
                     default: channelID="" ;
 
                 }

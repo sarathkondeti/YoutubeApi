@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">YoutubeApi</string>
     <string-array name="organisations">
-        <item>IITM TV</item>
+        <item>IIT Madras</item>
         <item>Media Club IITM</item>
+        <item>IITM TV</item>
+        <item>EML IITM</item>
+        <item>Saarang IITM</item>
+        <item>Shaastra IITM</item>
     </string-array>
 </resources>
